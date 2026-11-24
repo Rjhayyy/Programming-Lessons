@@ -1,0 +1,50 @@
+GITHUB START
+OPEN GIT CMD
+
+Code -> git add(Stage) -> (commit)
+
+
+Bash - Terminal of Git
+CMD - Terminal of Windows
+
+cd - go to folder
+cd .. - Go back folder
+cd tab(KEYBOARD BUTTON) - Fast keywords
+pwd - Check what directory you are in
+ls - check directory(Bash)
+ls -a = Shows hidden files
+code . - OPEN VSCODE
+
+Go to desktop first to make directory
+"cd desktop"
+
+Make Folder using CMD
+"mkdir (name)"
+
+Initialize git(ALWAYS DO THIS WHEN DOING NEW PROJECTS)
+"git init"
+
+Staging - ALWAYS DO THIS BEFORE COMMITING
+"git add"
+
+git status - "checks the status/changes of the directory" "Can also check what is currently staged"
+
+git commit -m "IMPORTANT COMMENTS/MESSAGE" = Push to the local main repo 
+
+git push - PUT IN ONLINE MAIN REPO
+
+Clone - Copies from online repo to local repo
+"git clone (HTTPS LINK)"
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Flow of things
+
+cd desktop (Go to desktop)
+mkdir folder_name (make folder)
+code . (open VS)
+make file and open bash in VS
+git init - Initialize
+git add - Stage 
+git commit - Put in Local Repo (be sure to add comments -m " ")
+git push - Put local repo in online repo
