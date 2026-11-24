@@ -38,9 +38,19 @@ git push - PUT IN ONLINE MAIN REPO
 
 git reset - unstage everything
 git reset HEAD~ - unstage and go back 1 commit
+git reset --hard - Brings back deleted files ITS BASICALLY A HARD RESET
 
 Clone - Copies from online repo to local repo
 "git clone (HTTPS LINK)"
+
+git rm (File_Name) - Removes files and automatically stage the changes 
+git rm -f (File_Name) - Forcefully removes the File and stage the changes
+git rm --cached (File_Name) - Removes the file from the stage but keep the physical file
+git rm (Folder_Name) - Removes the folder only but not the contents
+git rm -r (Folder_Name) - Removes the whole folder and its contents
+
+git log - See's the detailed push history
+git log --oneline = Cleaner way of seeing the push history but less detailed
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
