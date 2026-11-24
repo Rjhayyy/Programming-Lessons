@@ -36,6 +36,7 @@ git push - PUT IN ONLINE MAIN REPO
 Clone - Copies from online repo to local repo
 "git clone (HTTPS LINK)"
 
+yesdwa
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
