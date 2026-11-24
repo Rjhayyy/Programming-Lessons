@@ -26,12 +26,17 @@ Initialize git(ALWAYS DO THIS WHEN DOING NEW PROJECTS)
 
 Staging - ALWAYS DO THIS BEFORE COMMITING
 "git add"
+git add --all = Stage everything inside the project
+git add . = Stage the current directory you are in
+git add * - Stages all visible changes except deleted files
 
 git status - "checks the status/changes of the directory" "Can also check what is currently staged"
 
 git commit -m "IMPORTANT COMMENTS/MESSAGE" = Push to the local main repo 
 
 git push - PUT IN ONLINE MAIN REPO
+
+git reset - unstage everything
 
 Clone - Copies from online repo to local repo
 "git clone (HTTPS LINK)"
