@@ -37,6 +37,7 @@ git commit -m "IMPORTANT COMMENTS/MESSAGE" = Push to the local main repo
 git push - PUT IN ONLINE MAIN REPO
 
 git reset - unstage everything
+git reset HEAD~ - unstage and go back 1 commit
 
 Clone - Copies from online repo to local repo
 "git clone (HTTPS LINK)"
