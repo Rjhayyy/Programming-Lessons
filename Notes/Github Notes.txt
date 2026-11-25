@@ -51,6 +51,11 @@ git rm -r (Folder_Name) - Removes the whole folder and its contents
 
 git log - See's the detailed push history
 git log --oneline = Cleaner way of seeing the push history but less detailed
+
+git branch - checks for current branches
+git branch (Branch Name) - creates a branch
+git checkout (Branch Name) - Accesses the Branch
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
