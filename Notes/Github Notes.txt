@@ -56,6 +56,8 @@ git branch - checks for current branches
 git branch (Branch Name) - creates a branch
 git checkout (Branch Name) - Accesses the Branch
 
+
+git merge main -m "Notes here" = Merges branch and main
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
