@@ -1,1 +1,12 @@
-aa
+11/25/2026
+
+Learned Fetch
+Learned Branching
+Learned how to access branches
+Learned Merging
+Learned Diff for comparing previous commits
+
+More familiarized in github, making most of it a muscle memory now
+
+Total session hours: 1 hour 10 minutes
+Minutes of Video watched and learned: 19 minutes
