@@ -51,6 +51,8 @@ git rm -r (Folder_Name) - Removes the whole folder and its contents
 
 git log - See's the detailed push history
 git log --oneline = Cleaner way of seeing the push history but less detailed
+
+git merge main -m "Notes here" = Merges branch and main
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
