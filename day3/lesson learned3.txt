@@ -1,5 +1,11 @@
-This is a test for Fetching
-This is a test for pulling
-bro
-i dont
-what?
+11/26/2026
+
+Learned Stash 
+Learned Pop 
+Learned Apply 
+Learned Revert 
+Learned Reset 
+Learned Restore 
+
+Total session hours: 1 hour 10 minutes
+Minutes of Video watched and learned: 13 Minutes
