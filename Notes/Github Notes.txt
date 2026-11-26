@@ -64,6 +64,7 @@ git checkout (Branch Name) - Accesses the Branch
 git merge (Branch Name/Main) -m "Notes here" = Merging
 
 git diff (commit ID) (commit ID) - Compares 2 commits and shows their difference
+git diff (main) (main/origin) - Compares 2 commits and shows their difference
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
