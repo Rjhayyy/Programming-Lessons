@@ -64,7 +64,18 @@ git checkout (Branch Name) - Accesses the Branch
 git merge (Branch Name/Main) -m "Notes here" = Merging
 
 git diff (commit ID) (commit ID) - Compares 2 commits and shows their difference
-git diff (main) (main/origin) - Compares 2 commits and shows their difference
+git diff (main) (main/origin) - Compares the Code you Fetched and the current code you have
+
+git restore - can restore to previous state (Unstaged Changes only)
+git restore --staged (File_Name) = can remove the file from Staging
+
+git stash - allows you to switch branches without commiting your losing your work
+git stash pop - puts out your stashed codes while removing them in the stash storage
+git stash list - shows all of your stashed codes
+git stash apply - puts out your stashed codes while keeping a copy on the stash storage
+git stash drop - removes a stashed code in the stash storage
+
+git revert - removes a certain commit, and creates a new commit, also shows in log for clarity
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
