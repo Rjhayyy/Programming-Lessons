@@ -1,0 +1,18 @@
+variables - store data inside them with an identifier
+price = 10
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Data Types
+string - represent texts or a sequence of characters
+int - whole numbers
+float - around 7 decimal places
+double - around 15 decimal places
+boolean - True or False
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+sep=" " - puts on a new line per string or comma. (Line depends on what value is inside the quotes, could be \n or other stuff)
+difference between , and +
+in , it automatically puts a space after the seperator, while in + there's no space so u have to manually make a space
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Type Conversion
+So basically if you ask for an input, its stored as a string, so what if you ask a number? you need to convert that data type by using
+int(variable_name) #THIS IS FOR WHOLE NUMBERS
+double(variable_name) #FOR DECIMAL PLACES, CAN ALSO USE FLOAT
