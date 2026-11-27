@@ -78,7 +78,7 @@ git stash drop - removes a stashed code in the stash storage
 git revert - removes a certain commit, and creates a new commit, also shows in log for clarity
 
 git rebase main - copes the commit on main, to the branch essential merging them together but putting the main features First on top of your Branch
-                  (BEFORE DOING REBASE MAKE SURE YOU INFORM YOUR COLLABORATORS FIRST, ITS FINE IF ITS ON SOLO PROJECTS BUT BE WARY IF WORKING WITH PEOPLE)
+                 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
