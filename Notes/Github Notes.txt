@@ -79,6 +79,8 @@ git revert - removes a certain commit, and creates a new commit, also shows in l
 
 git rebase main - copes the commit on main, to the branch essential merging them together but putting the main features First on top of your Branch
 (BEFORE DOING REBASE MAKE SURE YOU INFORM YOUR COLLABORATORS FIRST, ITS FINE IF ITS ON SOLO PROJECTS BUT BE WARY IF WORKING WITH PEOPLE)
+git rebase --continue = Command to continue the rebase if Conflicts happened
+git rebase --abort = Cancels the rebase
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Flow of things
