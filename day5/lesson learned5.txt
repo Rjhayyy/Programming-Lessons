@@ -1,0 +1,16 @@
+11/28/2026
+
+Learned Type Conversion for inputs
+Learned String Methods such as upper, lower, in
+Refreshed Arithmetic Operators
+Refreshed Math Functions
+Learned about import math
+Refreshed If Statements
+Learned Identations in If Statements
+Refreshed Logical Operators
+Refreshed Comparison Operators
+Built a mini Program called Weight Converter from KG to LBS(Vice Versa)
+
+
+Total session hours: 1 hour 30 minutes
+Minutes of Video watched and learned: 1 Hour
